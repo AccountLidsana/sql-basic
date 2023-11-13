@@ -1,2 +1,1 @@
-# sql-bsic
- ວິຊາພື້ນຖານ SQL ປີ2
+Learning Basic SQL
